@@ -62,7 +62,7 @@
 - 💪 I live by the motto: "If you're not challenged, you're not growing." Every bug is just another opportunity for me to level up.
 - 😄 I find joy in turning complex problems into simple, elegant solutions—and having fun along the way.
 
-## 📫 Contact me via:
+## 📫 Contact me:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/JSawOverkill)
-
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DucEngg)
 
