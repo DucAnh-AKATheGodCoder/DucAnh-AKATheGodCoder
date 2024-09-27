@@ -11,7 +11,7 @@
 
 ## ✨ GitHub Stats
 
-![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fledacanh&label=VISITORS&labelColor=%232ccce4&countColor=%23697689&style=flat)
+![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FDucAnh-AKATheGodCoder&label=VISITORS&labelColor=%232ccce4&countColor=%23697689&style=flat)
 
 <style>
   .stats-container {
@@ -60,8 +60,8 @@
 
 <div class="stats-container">
   <div class="github-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ledacanh&show_icons=true&hide=contribs,issues&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledacanh&layout=compact&show_icons=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DucAnh-AKATheGodCoder&show_icons=true&hide=contribs,issues&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DucAnh-AKATheGodCoder&layout=compact&show_icons=true&hide_border=true" />
   </div>
   <div class="github-gif">
     <img alt="coding gif" src=".github/assets/coding.gif"/>
