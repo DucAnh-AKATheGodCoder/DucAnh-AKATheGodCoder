@@ -1,7 +1,7 @@
 ## Hi there! :wave: I'm Le Duc Anh - Software Engineer 🌟
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" />
 
-- 🔭 Born in 2003, live in Hanoi, I’m passionate about coding and music.
+- 🔭 Born in 2003, live in Hanoi, I’m passionate about coding and music. 
 - 🎶 Not only am I a software engineer, but I also compose music, blending the two worlds together.
 - 🛠️ Currently focused on developing creative software solutions and leveraging the latest technologies in my projects.
 - 🚀 **Mission**: To revolutionize the digital landscape with unique and impactful software solutions.
