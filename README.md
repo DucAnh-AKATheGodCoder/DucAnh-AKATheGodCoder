@@ -1,4 +1,4 @@
-## Hi there! :wave: I'm Le Duc Anh - aka [LeDucAnh][website] - Software Engineer 🌟
+## Hi there! :wave: I'm Le Duc Anh - Software Engineer 🌟
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" />
 
 - 🔭 Born in 2003, live in Hanoi, I’m passionate about coding and music.
