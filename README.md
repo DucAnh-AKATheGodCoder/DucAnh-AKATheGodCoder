@@ -9,19 +9,65 @@
 - 💡 **Favorite Quote**: "Never stop learning and evolving; it's never too late to pursue your passion."
 - ⚡ **Fun Fact**: I'm a god coder and music producer. When I'm not writing code, I'm writing beats!
 
-## ✨ GitHub Stats   
+## ✨ GitHub Stats
 
 ![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fledacanh&label=VISITORS&labelColor=%232ccce4&countColor=%23697689&style=flat)
 
-<table>
-<tr>
-  <td width="48%">
+<style>
+  .stats-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(45deg, #f0f0f0, #d4d4d4);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .stats-container:hover {
+    transform: scale(1.05);
+    background: linear-gradient(45deg, #d4d4d4, #f0f0f0);
+  }
+  
+  .github-stats {
+    width: 48%;
+    transition: opacity 0.3s ease;
+  }
+  
+  .github-stats:hover {
+    opacity: 0.8;
+  }
+  
+  .github-gif img {
+    width: 100%;
+    border-radius: 10px;
+    animation: float 4s ease-in-out infinite;
+  }
+
+  @keyframes float {
+    0% {
+      transform: translateY(0px);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+    100% {
+      transform: translateY(0px);
+    }
+  }
+</style>
+
+<div class="stats-container">
+  <div class="github-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=ledacanh&show_icons=true&hide=contribs,issues&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledacanh&layout=compact&show_icons=true&hide_border=true" />
-  </td>
-  <td width="52%"><img alt="gif" align="right" src=".github/assets/coding.gif"/></td>
-</tr>
-<table>
+  </div>
+  <div class="github-gif">
+    <img alt="coding gif" src=".github/assets/coding.gif"/>
+  </div>
+</div>
+
 
 ## 🛠️ Technical Skills
 ### Languages & Frameworks
